@@ -1,0 +1,174 @@
+/**
+ * 修改common/diygw-ui/index.scss 可以取消相关组件样式
+ * 修改common/diygw-ui/iconfont.scss 如果发布APP可能会图标字体找不到的问题，加上https测试
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.text-clz.data-v-43f66588 {
+  margin-left: 20rpx;
+  width: calc(100% - 20rpx - 20rpx) !important;
+  font-size: 28rpx !important;
+  line-height: 1.5;
+  font-family: 雅黑;
+  margin-top: 20rpx;
+  margin-bottom: 20rpx;
+  margin-right: 20rpx;
+}
+.title-clz.data-v-43f66588 {
+  color: #000000;
+  font-size: 20rpx !important;
+  font-family: 雅黑;
+}
+.title-title.data-v-43f66588 {
+  font-size: 13px;
+}
+.title-more.data-v-43f66588 {
+  font-size: 12px;
+}
+.line-clz.data-v-43f66588 {
+  margin-left: 0rpx;
+  width: calc(100% - 0rpx - 0rpx) !important;
+  margin-top: -10rpx;
+  margin-bottom: 0rpx;
+  margin-right: 0rpx;
+}
+.title1-clz.data-v-43f66588 {
+  font-size: 20rpx !important;
+  font-family: 雅黑;
+}
+.title1-title.data-v-43f66588 {
+  font-size: 13px;
+}
+.title1-more.data-v-43f66588 {
+  font-size: 12px;
+}
+.line1-clz.data-v-43f66588 {
+  margin-left: 0rpx;
+  width: calc(100% - 0rpx - 0rpx) !important;
+  margin-top: -10rpx;
+  margin-bottom: 0rpx;
+  margin-right: 0rpx;
+}
+.title2-clz.data-v-43f66588 {
+  font-size: 20rpx !important;
+  font-family: 雅黑;
+}
+.title2-title.data-v-43f66588 {
+  font-size: 13px;
+}
+.title2-more.data-v-43f66588 {
+  font-size: 12px;
+}
+.line2-clz.data-v-43f66588 {
+  margin-left: 0rpx;
+  width: calc(100% - 0rpx - 0rpx) !important;
+  margin-top: -10rpx;
+  margin-bottom: 0rpx;
+  margin-right: 0rpx;
+}
+.title3-clz.data-v-43f66588 {
+  font-size: 20rpx !important;
+  font-family: 雅黑;
+}
+.title3-title.data-v-43f66588 {
+  font-size: 13px;
+}
+.title3-more.data-v-43f66588 {
+  font-size: 12px;
+}
+.line3-clz.data-v-43f66588 {
+  margin-left: 0rpx;
+  width: calc(100% - 0rpx - 0rpx) !important;
+  margin-top: -10rpx;
+  margin-bottom: 0rpx;
+  margin-right: 0rpx;
+}
+.title4-clz.data-v-43f66588 {
+  font-size: 20rpx !important;
+  font-family: 雅黑;
+}
+.title4-title.data-v-43f66588 {
+  font-size: 13px;
+}
+.title4-more.data-v-43f66588 {
+  font-size: 12px;
+}
+.line4-clz.data-v-43f66588 {
+  margin-left: 0rpx;
+  width: calc(100% - 0rpx - 0rpx) !important;
+  margin-top: -10rpx;
+  margin-bottom: 0rpx;
+  margin-right: 0rpx;
+}
+.title5-clz.data-v-43f66588 {
+  font-size: 20rpx !important;
+  font-family: 雅黑;
+}
+.title5-title.data-v-43f66588 {
+  font-size: 13px;
+}
+.title5-more.data-v-43f66588 {
+  font-size: 12px;
+}
+.title6-clz.data-v-43f66588 {
+  font-size: 20rpx !important;
+  font-family: 雅黑;
+}
+.title6-title.data-v-43f66588 {
+  font-size: 13px;
+}
+.title6-more.data-v-43f66588 {
+  font-size: 12px;
+}
+.line5-clz.data-v-43f66588 {
+  margin-left: 0rpx;
+  width: calc(100% - 0rpx - 0rpx) !important;
+  margin-top: -10rpx;
+  margin-bottom: 0rpx;
+  margin-right: 0rpx;
+}
+.title7-clz.data-v-43f66588 {
+  font-size: 20rpx !important;
+  font-family: 雅黑;
+}
+.title7-title.data-v-43f66588 {
+  font-size: 13px;
+}
+.title7-more.data-v-43f66588 {
+  font-size: 12px;
+}
+.title8-clz.data-v-43f66588 {
+  font-size: 20rpx !important;
+  font-family: 雅黑;
+}
+.title8-title.data-v-43f66588 {
+  font-size: 13px;
+}
+.title8-more.data-v-43f66588 {
+  font-size: 12px;
+}
+.line6-clz.data-v-43f66588 {
+  margin-left: 0rpx;
+  width: calc(100% - 0rpx - 0rpx) !important;
+  margin-top: -10rpx;
+  margin-bottom: 0rpx;
+  margin-right: 0rpx;
+}
+.button-button-clz.data-v-43f66588 {
+  margin: 3px !important;
+}
+.container25488.data-v-43f66588 {
+  padding-left: 0px;
+  padding-right: 0px;
+}

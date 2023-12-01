@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "首页",
+  "navigationBarBackgroundColor": "#db5e54",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "diy-noticebar": "../../components/diy-noticebar/diy-noticebar"
+  }
+}

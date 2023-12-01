@@ -1,0 +1,181 @@
+/**
+ * 修改common/diygw-ui/index.scss 可以取消相关组件样式
+ * 修改common/diygw-ui/iconfont.scss 如果发布APP可能会图标字体找不到的问题，加上https测试
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.tabs-clz.data-v-029c72cf {
+  margin-left: 10rpx;
+  flex-shrink: 0;
+  width: calc(100% - 10rpx - 10rpx) !important;
+  font-size: 28rpx !important;
+  line-height: 3;
+  margin-top: 10rpx;
+  margin-bottom: 10rpx;
+  height: 1500rpx !important;
+  text-align: center;
+  margin-right: 10rpx;
+}
+.tabs-item-title.data-v-029c72cf {
+  color: #000000 !important;
+}
+.tabs-item-title.cur.data-v-029c72cf {
+  color: #db5e54 !important;
+}
+.search-search.data-v-029c72cf {
+  background-color: #f8f8f8 !important;
+}
+.flex-clz.data-v-029c72cf {
+  border-bottom: 4rpx solid #eee;
+}
+.text-clz.data-v-029c72cf {
+  font-weight: bold;
+  font-size: 29rpx !important;
+  text-align: left;
+}
+.text1-clz.data-v-029c72cf {
+  font-size: 20rpx !important;
+  line-height: 2;
+}
+.text2-clz.data-v-029c72cf {
+  font-size: 25rpx;
+  font-weight: bold;
+  text-align: right;
+}
+.text22-clz.data-v-029c72cf {
+  font-size: 25rpx;
+  text-align: left;
+}
+.text3-clz.data-v-029c72cf {
+  font-size: 23rpx;
+  line-height: 2;
+  text-align: right;
+}
+.flex3-clz.data-v-029c72cf {
+  border-bottom: 4rpx solid #eee;
+}
+.image1-clz.data-v-029c72cf {
+  background-size: 100% 100%;
+  background-position: center center;
+}
+.text4-clz.data-v-029c72cf {
+  font-weight: bold;
+  font-size: 28rpx !important;
+  text-align: left;
+}
+.text5-clz.data-v-029c72cf {
+  font-size: 20rpx !important;
+  line-height: 2;
+}
+.text6-clz.data-v-029c72cf {
+  font-weight: bold;
+  text-align: right;
+}
+.text7-clz.data-v-029c72cf {
+  line-height: 2;
+  text-align: right;
+}
+.flex6-clz.data-v-029c72cf {
+  margin-left: 10rpx;
+  width: calc(100% - 10rpx - 10rpx) !important;
+  margin-top: 10rpx;
+  margin-bottom: 10rpx;
+  border-bottom: 4rpx solid #eee;
+  margin-right: 10rpx;
+}
+.flex7-clz.data-v-029c72cf {
+  flex-shrink: 0;
+  height: 88rpx !important;
+}
+.text8-clz.data-v-029c72cf {
+  background-color: #db5e54;
+  margin-left: 40rpx;
+  background-size: 100% 100%;
+  color: #ffffff;
+  width: calc(16.6666666667% - 40rpx - 14rpx) !important;
+  margin-top: 10rpx;
+  margin-bottom: 10rpx;
+  text-align: center;
+  margin-right: 14rpx;
+}
+.text9-clz.data-v-029c72cf {
+  color: #db5e54;
+  font-size: 30rpx !important;
+  border-bottom: 6rpx solid #ffab06;
+}
+.flex8-clz.data-v-029c72cf {
+  margin-left: 56rpx;
+  width: calc(100% - 56rpx - 10rpx) !important;
+  margin-top: 10rpx;
+  margin-bottom: 10rpx;
+  margin-right: 10rpx;
+}
+.text10-clz.data-v-029c72cf {
+  font-size: 22rpx !important;
+  text-align: left;
+}
+.text11-clz.data-v-029c72cf {
+  font-size: 22rpx !important;
+  text-align: left;
+}
+.flex21-clz.data-v-029c72cf {
+  margin-left: 10rpx;
+  width: calc(100% - 10rpx - 10rpx) !important;
+  margin-top: 10rpx;
+  margin-bottom: 10rpx;
+  border-bottom: 4rpx solid #eee;
+  margin-right: 10rpx;
+}
+.flex22-clz.data-v-029c72cf {
+  flex-shrink: 0;
+  height: 88rpx !important;
+}
+.text28-clz.data-v-029c72cf {
+  background-color: #db5e54;
+  margin-left: 40rpx;
+  background-size: 100% 100%;
+  color: #ffffff;
+  width: calc(16.6666666667% - 40rpx - 14rpx) !important;
+  margin-top: 10rpx;
+  margin-bottom: 10rpx;
+  text-align: center;
+  margin-right: 14rpx;
+}
+.text29-clz.data-v-029c72cf {
+  color: #db5e54;
+  font-size: 30rpx !important;
+  border-bottom: 6rpx solid #ffab06;
+}
+.flex23-clz.data-v-029c72cf {
+  margin-left: 56rpx;
+  width: calc(100% - 56rpx - 10rpx) !important;
+  margin-top: 10rpx;
+  margin-bottom: 10rpx;
+  margin-right: 10rpx;
+}
+.text30-clz.data-v-029c72cf {
+  font-size: 22rpx !important;
+  text-align: left;
+}
+.text31-clz.data-v-029c72cf {
+  font-size: 22rpx !important;
+  text-align: left;
+}
+.container25494.data-v-029c72cf {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.container25494.data-v-029c72cf {
+  padding-bottom: 80px;
+}

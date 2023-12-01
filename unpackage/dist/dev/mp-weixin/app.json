@@ -1,0 +1,58 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/contribute/contribute",
+    "pages/mine/mine",
+    "pages/login/login",
+    "pages/webview",
+    "pages/exchange/exchange",
+    "pages/myContribute/myContribute",
+    "pages/myExchange/myExchange",
+    "pages/pointsDetail/pointsDetail",
+    "pages/shareDetails/shareDetails",
+    "pages/examine/examine",
+    "test/test"
+  ],
+  "window": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "测试应用",
+    "navigationBarBackgroundColor": "#db5e54"
+  },
+  "tabBar": {
+    "color": "#999999",
+    "selectedColor": "#333333",
+    "backgroundColor": "#ffffff",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "static/global/shouye_unselect.png",
+        "selectedIconPath": "static/global/shouye_selected.png"
+      },
+      {
+        "pagePath": "pages/contribute/contribute",
+        "text": "投稿",
+        "iconPath": "static/global/account_detail.png",
+        "selectedIconPath": "static/global/account_detail.png"
+      },
+      {
+        "pagePath": "pages/mine/mine",
+        "text": "我的",
+        "iconPath": "static/global/wode_unselect.png",
+        "selectedIconPath": "static/global/wode_selected.png"
+      }
+    ]
+  },
+  "__usePrivacyCheck__": true,
+  "permission": {
+    "scope.userLocation": {
+      "desc": "地理位置信息将用于标记位置"
+    }
+  },
+  "requiredPrivateInfos": [
+    "getLocation",
+    "chooseLocation"
+  ],
+  "usingComponents": {}
+}

@@ -1,0 +1,112 @@
+/**
+ * 修改common/diygw-ui/index.scss 可以取消相关组件样式
+ * 修改common/diygw-ui/iconfont.scss 如果发布APP可能会图标字体找不到的问题，加上https测试
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.avatar-clz[data-v-7c2ebfa5] {
+  margin-left: 0.3125rem;
+  width: calc(100% - 0.3125rem - 0.3125rem) !important;
+  margin-top: 1.5625rem;
+  margin-bottom: 0.625rem;
+  margin-right: 0.3125rem;
+}
+.avatar-avatar[data-v-7c2ebfa5] {
+  width: 100px;
+  height: 100px;
+}
+.text-clz[data-v-7c2ebfa5] {
+  font-weight: bold;
+  text-align: center;
+}
+.text1-clz[data-v-7c2ebfa5] {
+  margin-left: 0.3125rem;
+  width: calc(100% - 0.3125rem - 0.3125rem) !important;
+  margin-top: 0.3125rem;
+  margin-bottom: 0.3125rem;
+  text-align: center;
+  margin-right: 0.3125rem;
+}
+.button-clz[data-v-7c2ebfa5] {
+  margin-left: 6.25rem;
+  width: calc(100% - 6.25rem - 0.3125rem) !important;
+  margin-top: 0.3125rem;
+  margin-bottom: 0.3125rem;
+  margin-right: 0.3125rem;
+}
+.button-button-clz[data-v-7c2ebfa5] {
+  margin: 3px !important;
+}
+.button1-clz[data-v-7c2ebfa5] {
+  margin-left: 0.3125rem;
+  width: calc(100% - 0.3125rem - 6.25rem) !important;
+  margin-top: 0.3125rem;
+  margin-bottom: 0.3125rem;
+  margin-right: 6.25rem;
+}
+.button1-button-clz[data-v-7c2ebfa5] {
+  margin: 3px !important;
+}
+.text2-clz[data-v-7c2ebfa5] {
+  margin-left: 0.625rem;
+  padding-top: 0.3125rem;
+  padding-left: 0.3125rem;
+  width: calc(100% - 0.625rem - 0.3125rem) !important;
+  padding-bottom: 0.3125rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  border-bottom: 0.0625rem solid #eee;
+  margin-right: 0.3125rem;
+  padding-right: 0.3125rem;
+}
+.text3-clz[data-v-7c2ebfa5] {
+  margin-left: 0.625rem;
+  padding-top: 0.3125rem;
+  padding-left: 0.3125rem;
+  width: calc(100% - 0.625rem - 0.3125rem) !important;
+  padding-bottom: 0.3125rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  border-bottom: 0.0625rem solid #eee;
+  margin-right: 0.3125rem;
+  padding-right: 0.3125rem;
+}
+.text4-clz[data-v-7c2ebfa5] {
+  margin-left: 0.625rem;
+  padding-top: 0.3125rem;
+  padding-left: 0.3125rem;
+  width: calc(100% - 0.625rem - 0.3125rem) !important;
+  padding-bottom: 0.3125rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  border-bottom: 0.0625rem solid #eee;
+  margin-right: 0.3125rem;
+  padding-right: 0.3125rem;
+}
+.text5-clz[data-v-7c2ebfa5] {
+  margin-left: 0.625rem;
+  padding-top: 0.3125rem;
+  padding-left: 0.3125rem;
+  width: calc(100% - 0.625rem - 0.3125rem) !important;
+  padding-bottom: 0.3125rem;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  border-bottom: 0.0625rem solid #eee;
+  margin-right: 0.3125rem;
+  padding-right: 0.3125rem;
+}
+.container25494[data-v-7c2ebfa5] {
+  padding-left: 0px;
+  padding-right: 0px;
+}

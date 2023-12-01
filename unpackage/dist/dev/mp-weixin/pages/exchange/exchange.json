@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "兑换",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-form-item": "../../uni_modules/diy-uview-ui/components/u-form-item/u-form-item"
+  }
+}

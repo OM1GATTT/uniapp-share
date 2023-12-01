@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "投稿审核",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "u-dropdown-item": "../../uni_modules/diy-uview-ui/components/u-dropdown-item/u-dropdown-item",
+    "u-dropdown": "../../uni_modules/diy-uview-ui/components/u-dropdown/u-dropdown",
+    "u-input": "../../uni_modules/diy-uview-ui/components/u-input/u-input",
+    "u-form-item": "../../uni_modules/diy-uview-ui/components/u-form-item/u-form-item"
+  }
+}

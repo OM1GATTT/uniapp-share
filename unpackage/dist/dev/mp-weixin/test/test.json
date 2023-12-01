@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-dropdown": "../uni_modules/diy-uview-ui/components/u-dropdown/u-dropdown"
+  }
+}

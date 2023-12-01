@@ -1,0 +1,52 @@
+/**
+ * 修改common/diygw-ui/index.scss 可以取消相关组件样式
+ * 修改common/diygw-ui/iconfont.scss 如果发布APP可能会图标字体找不到的问题，加上https测试
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.icon-clz[data-v-f3d02fe1] {
+  margin-left: 0.9375rem;
+  margin-top: 0.3125rem;
+  margin-bottom: 0.3125rem;
+  margin-right: -0.625rem;
+}
+.icon[data-v-f3d02fe1] {
+  font-size: 1.25rem;
+}
+.text2-clz[data-v-f3d02fe1] {
+  margin-left: 0.625rem;
+  padding-top: 0.3125rem;
+  padding-left: 0.3125rem;
+  width: calc(83.3333333333% - 0.625rem - 0) !important;
+  font-size: 0.875rem !important;
+  padding-bottom: 0.3125rem;
+  margin-top: 0.3125rem;
+  margin-bottom: 0.3125rem;
+  margin-right: 0;
+  padding-right: 0.3125rem;
+}
+.icon1-clz[data-v-f3d02fe1] {
+  margin-left: 0.3125rem;
+  width: calc(8.3333333333% - 0.3125rem - 0.3125rem) !important;
+  margin-top: 0.3125rem;
+  margin-bottom: 0.3125rem;
+  margin-right: 0.3125rem;
+}
+.icon1[data-v-f3d02fe1] {
+  font-size: 1.125rem;
+}
+.container25494[data-v-f3d02fe1] {
+  padding-left: 0px;
+  padding-right: 0px;
+}

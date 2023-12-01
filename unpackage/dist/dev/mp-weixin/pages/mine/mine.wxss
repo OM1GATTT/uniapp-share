@@ -1,0 +1,112 @@
+/**
+ * 修改common/diygw-ui/index.scss 可以取消相关组件样式
+ * 修改common/diygw-ui/iconfont.scss 如果发布APP可能会图标字体找不到的问题，加上https测试
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.avatar-clz.data-v-7c2ebfa5 {
+  margin-left: 10rpx;
+  width: calc(100% - 10rpx - 10rpx) !important;
+  margin-top: 50rpx;
+  margin-bottom: 20rpx;
+  margin-right: 10rpx;
+}
+.avatar-avatar.data-v-7c2ebfa5 {
+  width: 100px;
+  height: 100px;
+}
+.text-clz.data-v-7c2ebfa5 {
+  font-weight: bold;
+  text-align: center;
+}
+.text1-clz.data-v-7c2ebfa5 {
+  margin-left: 10rpx;
+  width: calc(100% - 10rpx - 10rpx) !important;
+  margin-top: 10rpx;
+  margin-bottom: 10rpx;
+  text-align: center;
+  margin-right: 10rpx;
+}
+.button-clz.data-v-7c2ebfa5 {
+  margin-left: 200rpx;
+  width: calc(100% - 200rpx - 10rpx) !important;
+  margin-top: 10rpx;
+  margin-bottom: 10rpx;
+  margin-right: 10rpx;
+}
+.button-button-clz.data-v-7c2ebfa5 {
+  margin: 3px !important;
+}
+.button1-clz.data-v-7c2ebfa5 {
+  margin-left: 10rpx;
+  width: calc(100% - 10rpx - 200rpx) !important;
+  margin-top: 10rpx;
+  margin-bottom: 10rpx;
+  margin-right: 200rpx;
+}
+.button1-button-clz.data-v-7c2ebfa5 {
+  margin: 3px !important;
+}
+.text2-clz.data-v-7c2ebfa5 {
+  margin-left: 20rpx;
+  padding-top: 10rpx;
+  padding-left: 10rpx;
+  width: calc(100% - 20rpx - 10rpx) !important;
+  padding-bottom: 10rpx;
+  margin-top: 16rpx;
+  margin-bottom: 16rpx;
+  border-bottom: 2rpx solid #eee;
+  margin-right: 10rpx;
+  padding-right: 10rpx;
+}
+.text3-clz.data-v-7c2ebfa5 {
+  margin-left: 20rpx;
+  padding-top: 10rpx;
+  padding-left: 10rpx;
+  width: calc(100% - 20rpx - 10rpx) !important;
+  padding-bottom: 10rpx;
+  margin-top: 16rpx;
+  margin-bottom: 16rpx;
+  border-bottom: 2rpx solid #eee;
+  margin-right: 10rpx;
+  padding-right: 10rpx;
+}
+.text4-clz.data-v-7c2ebfa5 {
+  margin-left: 20rpx;
+  padding-top: 10rpx;
+  padding-left: 10rpx;
+  width: calc(100% - 20rpx - 10rpx) !important;
+  padding-bottom: 10rpx;
+  margin-top: 16rpx;
+  margin-bottom: 16rpx;
+  border-bottom: 2rpx solid #eee;
+  margin-right: 10rpx;
+  padding-right: 10rpx;
+}
+.text5-clz.data-v-7c2ebfa5 {
+  margin-left: 20rpx;
+  padding-top: 10rpx;
+  padding-left: 10rpx;
+  width: calc(100% - 20rpx - 10rpx) !important;
+  padding-bottom: 10rpx;
+  margin-top: 16rpx;
+  margin-bottom: 16rpx;
+  border-bottom: 2rpx solid #eee;
+  margin-right: 10rpx;
+  padding-right: 10rpx;
+}
+.container25494.data-v-7c2ebfa5 {
+  padding-left: 0px;
+  padding-right: 0px;
+}

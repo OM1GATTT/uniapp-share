@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "投稿",
+  "navigationBarBackgroundColor": "#db5e54",
+  "usingComponents": {
+    "u-radio": "../../uni_modules/diy-uview-ui/components/u-radio/u-radio",
+    "u-radio-group": "../../uni_modules/diy-uview-ui/components/u-radio-group/u-radio-group",
+    "u-form-item": "../../uni_modules/diy-uview-ui/components/u-form-item/u-form-item",
+    "u-input": "../../uni_modules/diy-uview-ui/components/u-input/u-input"
+  }
+}

@@ -1,0 +1,78 @@
+/**
+ * 修改common/diygw-ui/index.scss 可以取消相关组件样式
+ * 修改common/diygw-ui/iconfont.scss 如果发布APP可能会图标字体找不到的问题，加上https测试
+ */
+/* 颜色变量 */
+/* 行为相关颜色 */
+/* 文字基本颜色 */
+/* 背景颜色 */
+/* 边框颜色 */
+/* 尺寸变量 */
+/* 文字尺寸 */
+/* 图片尺寸 */
+/* Border Radius */
+/* 水平间距 */
+/* 垂直间距 */
+/* 透明度 */
+/* 文章场景相关 */
+.u-dropdown.data-v-0ad5aceb {
+  flex: 1;
+  width: 100%;
+  position: relative;
+}
+.u-dropdown__menu.data-v-0ad5aceb {
+
+  display: flex;
+  flex-direction: row;
+
+  position: relative;
+  z-index: 11;
+  height: 80rpx;
+}
+.u-dropdown__menu__item.data-v-0ad5aceb {
+  flex: 1;
+
+  display: flex;
+  flex-direction: row;
+
+  justify-content: center;
+  align-items: center;
+}
+.u-dropdown__menu__item__text.data-v-0ad5aceb {
+  font-size: 28rpx;
+}
+.u-dropdown__menu__item__arrow.data-v-0ad5aceb {
+  margin-left: 6rpx;
+  transition: transform 0.3s;
+  align-items: center;
+
+  display: flex;
+  flex-direction: row;
+}
+.u-dropdown__menu__item__arrow--rotate.data-v-0ad5aceb {
+  transform: rotate(180deg);
+}
+.u-dropdown__content.data-v-0ad5aceb {
+  position: absolute;
+  z-index: 8;
+  width: 100%;
+  left: 0px;
+  bottom: 0;
+  overflow: hidden;
+}
+.u-dropdown__content__mask.data-v-0ad5aceb {
+  position: absolute;
+  z-index: 9;
+  background: rgba(0, 0, 0, 0.3);
+  width: 100%;
+  left: 0;
+  top: 0;
+  bottom: 0;
+}
+.u-dropdown__content__popup.data-v-0ad5aceb {
+  position: relative;
+  z-index: 10;
+  transition: all 0.3s;
+  transform: translate3D(0, -100%, 0);
+  overflow: hidden;
+}
